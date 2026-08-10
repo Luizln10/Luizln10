@@ -103,9 +103,3 @@ Alguns dos projetos desenvolvidos ao longo da minha jornada acadêmica:
 | 🐙 GitHub | [github.com/Luizln10](https://github.com/Luizln10) |
 
 <br>
-
-<div align="center">
-
-⌨️ com ☕ por **Luiz Alves da Silva Neto**
-
-</div>
