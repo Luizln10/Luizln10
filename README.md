@@ -15,7 +15,7 @@
 <!-- ============ SOBRE MIM ============ -->
 ## 👨‍💻 Sobre mim
 
-Olá! Sou o **Luiz**, natural de Fortaleza-CE, estou em constante evolução como desenvolvedor. Atualmente sou graduando em **Ciências da Computação na Universidade de Fortaleza (UNIFOR)**, com previsão de conclusão no segundo semestre de 2027.
+Olá! Sou o **Luiz**, natural de Fortaleza-CE, em que mantenho minha constante evolução como desenvolvedor. Atualmente sou graduando em **Ciências da Computação na Universidade de Fortaleza (UNIFOR)**, com previsão de conclusão no segundo semestre de 2027.
 
 Estou em busca da minha **primeira oportunidade de estágio na área de Tecnologia da Informação**, onde possa aplicar e expandir os conhecimentos que venho construindo em programação, banco de dados e desenvolvimento web.
 
